@@ -1,0 +1,13 @@
+= An asciidoctor document
+Matthew Palermo <matt.r.palermo@gmail.com>
+v1.2.3, 2018-03-10
+:toc: left
+:homepage: https://mattpalermo.github.com/
+:stem:
+
+== Chapter 1
+
+[stem]
+++++ 
+sqrt(4) = 2
+++++
