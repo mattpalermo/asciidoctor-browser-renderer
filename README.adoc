@@ -1,6 +1,6 @@
 = Asciidoctor browser renderer
 Matthew Palermo <matt.r.palermo@gmail.com>
-2018-03-12
+2018-03-13
 
 Read asciidoc documents in a web browser using asciidoctor
 
