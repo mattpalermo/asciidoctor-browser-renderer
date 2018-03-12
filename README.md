@@ -1,6 +1,6 @@
 # Asciidoctor browser renderer
 
-Read asciidoc documents in web browsers using asciidoctor
+Read asciidoc documents in a web browser using asciidoctor
 
 ## Getting started
 
