@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Asciidoctor browser renderer",
   "description": "Read asciidoc documents in a web browser using asciidoctor",
-  "version": "0.1",
+  "version": "0.1.0",
   "content_scripts": [
     {
       "matches":[
