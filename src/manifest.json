@@ -32,11 +32,11 @@
         "file://*/*.asciidoc.*"
       ],
       "js":[
-        "asciidoctor.js",
+        "vendor/asciidoctor.js",
         "main.js"
       ],
       "css":[
-        "asciidoctor.css"
+        "vendor/asciidoctor.css"
       ]
     }
   ],
@@ -53,5 +53,5 @@
     "*://*/*.asciidoc",
     "*://*/*.asciidoc?*",
     "*://*/*.asciidoc.*"
-  ],
+  ]
 }

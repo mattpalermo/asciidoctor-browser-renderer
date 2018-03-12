@@ -1,0 +1,22 @@
+{
+  "name": "asciidoctor-browser-renderer",
+  "version": "0.1.0",
+  "description": "Read asciidoc documents in a web browser using asciidoctor",
+  "scripts": {
+    "install": "sh install.sh",
+    "build": "sh build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattpalermo/asciidoctor-browser-renderer.git"
+  },
+  "author": "Matthew Palermo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattpalermo/asciidoctor-browser-renderer/issues"
+  },
+  "homepage": "https://github.com/mattpalermo/asciidoctor-browser-renderer#readme",
+  "dependencies": {
+    "asciidoctor.js": "^1.5.6-preview.5"
+  }
+}
